@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="laba7.Cilindr">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgABAQBAAAAAQkAAQAAAAAAAAgAABAAAAAQAAQAAA=</HashCode>
+      <FileName>Figure+\Cilindr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba7.Point2d" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAgAAAAAAEAAQAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Figure+\Point2d.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba7.Prism3">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgABAAAAAAAAAkAAQAAAAAAAAAAAAAACAAAAAgAAA=</HashCode>
+      <FileName>Figure+\Prism3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba7.Figure_.Prism4">
+    <Position X="13.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgABQAAAAAAAAkAAQAAAAAAAAAAAAAAAABEAAIAQA=</HashCode>
+      <FileName>Figure+\Prism4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
